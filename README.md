@@ -29,4 +29,6 @@
  	<a href="https://www.twitch.tv/cassimbas" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:cassio.rbraga6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cassio-braga-78524b79/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>   
+</div>
+  
+  ![Snake animation](https://github.com/Cassimbas/Cassimbas/blob/output/github-contribution-grid-snake.svg)
